@@ -352,13 +352,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Mini First Person Controller/Scripts/Components/Crouch.cs"
-"Assets/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs"
-"Assets/Mini First Person Controller/Scripts/Components/GroundCheck.cs"
-"Assets/Mini First Person Controller/Scripts/Components/Jump.cs"
-"Assets/Mini First Person Controller/Scripts/Components/Zoom.cs"
-"Assets/Mini First Person Controller/Scripts/FirstPersonLook.cs"
-"Assets/Mini First Person Controller/Scripts/FirstPersonMovement.cs"
+"Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonAnimator.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonMotor.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs"
+"Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs"
 -langversion:9.0
 
 /deterministic
