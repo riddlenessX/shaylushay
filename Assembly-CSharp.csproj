@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Clipboard\Sound\Sounds.cs" />
-    <Compile Include="Assets\Laterns and candles\PhysicsChandelier.cs" />
+    <Compile Include="Assets\Laterns and candles\scripts\PhysicsChandelier.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\3D Models\Others\HealthItem\vAnimateUV.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vExtensions.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonMotor.cs" />
@@ -70,6 +70,7 @@
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonAnimator.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonController.cs" />
     <Compile Include="Assets\Clipboard\TriggerRiddleOne.cs" />
+    <Compile Include="Assets\Laterns and candles\scripts\TriggerSoundFallChandelier.cs" />
     <Compile Include="Assets\Laterns and candles\scripts\ExtendedFlycam.cs" />
     <Compile Include="Assets\Clipboard\Dialog\DialogContorller.cs" />
     <Compile Include="Assets\Laterns and candles\scripts\CameraFacing.cs" />
