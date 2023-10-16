@@ -63,8 +63,6 @@
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vExtensions.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonMotor.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonInput.cs" />
-    <Compile Include="Assets\Clipboard\TriggerRiddleTwo.cs" />
-    <Compile Include="Assets\Clipboard\TriggerRiddleThree.cs" />
     <Compile Include="Assets\Clipboard\CanvasController.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Camera\vThirdPersonCamera.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vPickupItem.cs" />
