@@ -365,6 +365,9 @@
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs"
+"Assets/Laterns and candles/PhysicsChandelier.cs"
+"Assets/Laterns and candles/scripts/CameraFacing.cs"
+"Assets/Laterns and candles/scripts/ExtendedFlycam.cs"
 -langversion:9.0
 
 /deterministic
