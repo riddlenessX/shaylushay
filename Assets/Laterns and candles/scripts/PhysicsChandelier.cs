@@ -9,6 +9,7 @@ public class PhysicsChandelier : MonoBehaviour
     
     void OnTriggerEnter(Collider other)
     {
+        PhysicsPrefab.GetComponent<Light>().enabled = false;
         PhysicsPrefab.isKinematic = false;
     }
 }

@@ -5,6 +5,7 @@ using UnityEngine;
 public class TriggerSoundFallChandelier : MonoBehaviour
 {
     public GameObject Sound;
+    public GameObject Chandelier;
     private void Start()
     {
         Sound.SetActive(false);
