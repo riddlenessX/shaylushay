@@ -369,6 +369,7 @@
 "Assets/Laterns and candles/scripts/ExtendedFlycam.cs"
 "Assets/Laterns and candles/scripts/PhysicsChandelier.cs"
 "Assets/Laterns and candles/scripts/TriggerSoundFallChandelier.cs"
+"Assets/Tim's Assets/TriggerOpenDoor.cs"
 -langversion:9.0
 
 /deterministic
